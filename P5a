@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Práctica imagen</title>
+  </head>
+  <body>
+    <h1>CATALOGO FAUNA PROTEGIDA COMUNIDAD DE MADRID</h1>
+    <li> <strong>Águila Imperial:</strong> Especie endémica de la Península, se trata de una de las aves más emblemáticas y amenazadas de nuestra fauna, que estuvo al borde de la extinción, aunque se ha venido recuperando en las últimas décadas. Habita en el centrosuroeste peninsular, fundamentalmente en sierras con extensas formaciones de monte mediterráneo y, en menor medida, en pinares del Sistema Central.</li>
+    <img src="https://www.seo.org/wp-content/uploads/2013/11/F157_Foto_02.jpg" alt="aguila imperial">
+  </body>
+</html>
+
+
+
+CSS
+img {
+    display: block;
+    width: 20%;
+    height: 30%;
+    padding: 0;
+    margin: 20pt;
+    border: 0;
+    outline: 0;
+    margin-left: auto;
+    margin-right: auto;
+}
