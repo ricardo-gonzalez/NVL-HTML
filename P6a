@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Práctica claisifcacion liga</title>
+  </head>
+  <body>
+    <h1>Clasificación Liga  de Fútbol Profesional</h1>
+    <img class="irc_mi" src="https://prnoticias.com/media/k2/items/cache/0bf7604ebabcc5bbe1045d2a5aab65b8_XL.jpg?t=1534508763" alt="Resultado de imagen de la liga" width="602" height="320" style="">
+    <ol>
+      <li><t>Real Madrid - 15 pts</t></li>
+      <li><t>Granada - 14 pts</t></li>
+      <li><t>Atlético de Madrid - 14 pts</t></li>
+      <li><t>Barcelona - 13 pts</t></li>
+      <li><t>Real Sociedad - 13 pts</t></li>
+      <li><t>Sevilla - 13 pts</t></li>
+      <li><t>Ath. Bilbao - 12 pts</t></li>
+      <li><t>Villareal - 11 pts</t></li>
+      <li><t>Valencia - 9 pts</t></li>
+      <li><t>Valladolid - 9 pts</t></li>
+      <li><t>Eibar - 8 pts</t></li>
+      <li><t>Levante - 8 pts</t></li>
+      <li><t>Osasuna - 8 pts</t></li>
+      <li><t>Alavés - 8 pts</t></li>
+      <li><t>Betis - 8 pts</t></li>
+      <li><t>Getafe - 7 pts</t></li>
+      <li><t>Celta de Vigo - 6 pts</t></li>
+      <li><t>Espanyol - 5 pts</t></li>
+      <li><t>Mallorca - 4 pts</t></li>
+      <li><t>Leganés - 2 pts</t></li>
+    </ol>
+  </body>
+</html>
+
+
+CSS
+img {
+    display: block;
+    width: 10%;
+    height: 30%;
+}
